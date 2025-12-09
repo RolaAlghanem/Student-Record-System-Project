@@ -33,32 +33,6 @@ Multithreading:
 
 
 
-
-# Project structure:
-
-
-StudentProject/
-├── README.md
-├── students.txt
-└── src/
-    ├── Main.java
-    ├── model/
-    │   └── Student.java
-    ├── manager/
-    │   └── StudentManager.java
-    ├── util/
-    │   └── FileHandler.java
-    ├── report/
-    │   ├── Report.java
-    │   ├── GPAReport.java
-    │   └── DepartmentReport.java
-    └── thread/
-        ├── AutoSaveTask.java
-        └── ReportTask.java
-
-
-
-
 # Run Instructions File
 
 
@@ -79,7 +53,7 @@ How to run:
 
 
 How to test the program:
- 1 you can test the system through the command line by doing the following,
+- you can test the system through the command line by doing the following,
 Add Student → Enter student information and confirm it is save
 Update Student → Modify an existing student and update
 Delete Student → Remove a student and confirm deletion
@@ -88,7 +62,7 @@ Search Student → Find a student by ID
 
 
 # Team members:
- 1 Core developer - لامار الدوسري
- 2 Multithreading & Reports - غلا الفهيد
- 3 Documeantation & UML - يافا الربعي
- 4 Github & README and Testing  - رولا الغانم
+- Core developer - لامار الدوسري
+- Multithreading & Reports - غلا الفهيد
+- Documeantation & UML - يافا الربعي
+- Github & README and Testing  - رولا الغانم
