@@ -1,4 +1,3 @@
-# Student-Record-System-Project
 # Student Record Management System (SRMS)
 This project is Java-based system designed to manage university student records. developed as part of the Group Coursework Assignment.
 
@@ -12,10 +11,10 @@ Student Management:
 
 
 Student:
- 1 Stores ID, name, department, and GPA
- 2 Provide getters and setters
- 3 Validate GPA
- 4 Convert info to a string
+- Stores ID, name, department, and GPA
+- Provide getters and setters
+- Validate GPA
+- Convert info to a string
 
 
 File handler:
@@ -69,14 +68,14 @@ System requirements for running the project:
 
 
 How to compile the project:
-1- Open Terminal 
-2- Go to cd /path/to/StudentProject/src in the terminal
-3- write javac */*.java *.java (to Compile all java files)
+- Open Terminal 
+- Go to cd /path/to/StudentProject/src in the terminal
+- write javac */*.java *.java (to Compile all java files)
 
 
 How to run:
-1-After compiling, all the files with .java transform to .class needed to run the system 
-2-After successful compilation, run the program using java main
+- After compiling, all the files with .java transform to .class needed to run the system 
+- After successful compilation, run the program using java main
 
 
 How to test the program:
